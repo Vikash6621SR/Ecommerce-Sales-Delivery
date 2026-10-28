@@ -1,0 +1,25 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files and logs
+*.log
+*.tmp
+
+# Power BI temporary lock files
+~*.pbix

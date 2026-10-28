@@ -1,0 +1,6 @@
+payment_type,total_payments,payment_records
+credit_card,12542084.19,76795
+boleto,2869361.27,19784
+voucher,379436.87,5775
+debit_card,217989.79,1529
+not_defined,0.0,3
